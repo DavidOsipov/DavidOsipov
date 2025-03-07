@@ -10,6 +10,8 @@ Here’s what someone said about me:
 
 Check out my GitHub stats and some fun trophies:  
 [![trophy](https://github-profile-trophy.vercel.app/?username=DavidOsipov&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![David Osipov's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidOsipov)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## What I’ve Been Doing 💼
 
