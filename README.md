@@ -32,9 +32,9 @@ Oh, and AI? I’m *really* good with it. I built this thing called [AI Meta Feed
 I’m a product manager, so I’m big on planning, researching markets, and figuring out what’s next. But AI is my jam—I’m ace at prompt engineering with tools like Gemini and Claude (my prompt repo proves it!). I can crunch data with Amplitude or Excel, code in Python and C#, and I’m super into cybersecurity—think VirusTotal and Phishing.Database. I speak English and Russian like a pro, and I’ve got some French and Georgian up my sleeve too.
 
 - **Product Stuff:** Strategy, roadmaps, market digging  
-- **AI Skills:** Prompt engineering (Gemini, Claude, you name it)  
+- **AI Skills:** Prompt engineering (Gemini, Claude, Deepseek, Grok, you name it)  
 - **Data:** Amplitude, Excel, Google Analytics  
-- **Coding:** Python, C#  
+- **Coding:** Python (newbie, but learning), HTML, CSS (but I'm really good with performance optimization strategies, SEO and schema markup)
 - **Cybersecurity:** Phishing geek, VirusTotal contributor  
 - **Languages:** English (C2), Russian (C2+), French (A2), Georgian (A2)  
 
@@ -49,9 +49,8 @@ I love giving back. I’ve made over 43,000 edits on OpenStreetMap (maps are my 
 ## Say Hi! 📬
 
 I’m a chill guy who loves connecting. Want to team up on a project, talk AI, or geek out about cybersecurity? Hit me up!  
-- Email: [business@david-osipov.vision](mailto:business@david-osipov.vision)  
 - LinkedIn: [linkedin.com/in/david-osipov](https://linkedin.com/in/david-osipov)  
 - GitHub: [github.com/DavidOsipov](https://github.com/DavidOsipov)  
-- Website: [david-osipov.vision](https://david-osipov.vision)  
+- Website: [david-osipov.vision](https://david-osipov.vision) (still building it) 
 
 Looking forward to hearing from you!
