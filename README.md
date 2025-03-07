@@ -40,11 +40,11 @@ I’m a product manager, so I’m big on planning, researching markets, and figu
 
 ## School & Certs 🎓
 
-Got my Master’s in Management from GSOM SPbU—honors and all (GPA 4.5/5.0). Before that, I did International Relations there too. I’ve also got certs like AI Prompt Engineering (Dubai Future Foundation, Jan 2025), Continuous Product Discovery, and Enterprise Design Thinking from IBM. They’ve been super handy for keeping my skills sharp.
+Got my Master’s in Management from [GSOM SPbU](https://gsom.spbu.ru/en/)—honors and all (GPA 4.5/5.0). Before that, I did International Relations there too. I’ve also got certs like AI Prompt Engineering (Dubai Future Foundation, Jan 2025), Continuous Product Discovery, and Enterprise Design Thinking from IBM. They’ve been super handy for keeping my skills sharp.
 
 ## Helping Out 🌟
 
-I love giving back. I’ve made over 43,000 edits on OpenStreetMap (maps are my thing!), plus 2,000+ on MusicBrainz. I mentor students at GSOM SPbU for free, chatting about IT and product management. And my work with Phishing.Database? That’s all about making the internet a better place.
+I love giving back. I’ve made over 43,000 edits on OpenStreetMap (maps are my thing!), plus 2,000+ on MusicBrainz. I mentor students at GSOM SPbU for free, chatting about IT and product management. I'm a Wikidata and Wikipedia contributor also :) 
 
 ## Say Hi! 📬
 
