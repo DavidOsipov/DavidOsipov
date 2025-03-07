@@ -24,7 +24,6 @@ Right now, I’m freelancing since 2024—helping out with market research and p
 - **[K4CV-Caching-Engine](https://github.com/DavidOsipov/K4CV-Caching-Engine):** A little helper for Keywords4CV to keep it speedy.
 
 - **[Phishing.Database](https://github.com/Phishing-Database/Phishing.Database):** I’m in on this one—it’s about spotting phishing threats and keeping the data open for all. It’s close to my heart because it makes the web safer.
-- **[]**
 
 Oh, and AI? I’m *really* good with it. I built this thing called [AI Meta Feedback Analyzer](https://github.com/DavidOsipov/AI-Meta-Feedback-Analyzer)—a framework that helps AI chew through feedback and spit out smart code improvement ideas. It’s got cool features like prioritizing stuff and scoring feedback quality. People can use it with tools like Claude or GPT-4 to make coding easier. Check it out if you’re into that!
 
