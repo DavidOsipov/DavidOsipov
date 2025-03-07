@@ -51,6 +51,9 @@ I love giving back. I’ve made over 43,000 edits on OpenStreetMap (maps are my 
 I’m a chill guy who loves connecting. Want to team up on a project, talk AI, or geek out about cybersecurity? Hit me up!  
 - LinkedIn: [linkedin.com/in/david-osipov](https://linkedin.com/in/david-osipov)  
 - GitHub: [github.com/DavidOsipov](https://github.com/DavidOsipov)  
-- Website: [david-osipov.vision](https://david-osipov.vision) (still building it) 
+- Website: [david-osipov.vision](https://david-osipov.vision) (still building it)
+- Verify it’s me at [keyoxide.org/wkd/business@david-osipov.vision](https://keyoxide.org/wkd/business@david-osipov.vision)—it links my profiles to my PGP key. Grab it via WKD (Thunderbird/ProtonMail-friendly), or here:  
+  - Binary: [openpgpkey.david-osipov.vision/.../hu/pjmzw74d6on6w4o8hhtn9z5agk1cta8n](https://openpgpkey.david-osipov.vision/.well-known/openpgpkey/david-osipov.vision/hu/pjmzw74d6on6w4o8hhtn9z5agk1cta8n)  
+  - Armored: [openpgpkey.david-osipov.vision/.../D3FC4983E500AC3F7F136EB80E55C4A47454E82E.asc](https://openpgpkey.david-osipov.vision/.well-known/openpgpkey/david-osipov.vision/D3FC4983E500AC3F7F136EB80E55C4A47454E82E.asc)
 
 Looking forward to hearing from you!
