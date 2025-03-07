@@ -2,7 +2,7 @@
 
 I’m a B2B Product Manager who’s super into cybersecurity and AI. I’m chilling in Dubai, UAE right now, working on my project [Keywords4CV](https://github.com/DavidOsipov/Keywords4CV)—a cool AI tool to help people make their resumes and LinkedIn profiles stand out. I’m also part of [Phishing.Database](https://github.com/Phishing-Database/Phishing.Database), where we’re tackling phishing threats together. I’m all about keeping the internet safe and making sure threat info stays free for everyone. 🌍
 
-I’ve got a Master’s in Management from GSOM SPbU (yeah, I graduated with honors, but no need to make a fuss 😄), and I’ve grabbed some certifications in product management and design thinking too. Oh, and I’m a bit of a geek when it comes to phishing and other cybersec stuff, Windows and Linux administration, GIS and more.
+I’ve got a Master’s in Management from [GSOM SPbU](https://gsom.spbu.ru/en/) (yeah, I graduated with honors, but no need to make a fuss 😄), and I’ve grabbed some certifications in product management and design thinking too. Oh, and I’m a bit of a geek when it comes to phishing and other cybersec stuff, Windows and Linux administration, GIS and more.
 
 Here’s what someone said about me:  
 > "David’s a product manager I loved working with—thoughtful, responsive, and all about real results."  
@@ -13,7 +13,7 @@ Check out my GitHub stats and some fun trophies:
 
 ## What I’ve Been Doing 💼
 
-Right now, I’m freelancing since 2024—helping out with market research and product management for companies like GrowFood and World Arabia. It’s been fun digging into their data and boosting their upselling. Before that, I was Lead Product Manager at DeskAlerts (2022-2024). I got to build a new SaaS suite from scratch, which was tough but awesome. Seeing it grow and add 16% to annual revenue was a big win. Plus, I loved making sure it was secure with OWASP standards.
+Right now, I’m freelancing since 2024—helping out with market research and product management for companies like GrowFood and World Arabia. It’s been fun digging into their data and boosting their upselling. Before that, I was Lead Product Manager at [DeskAlerts](https://alert-software.com) (2022-2024). I got to build a new SaaS suite from scratch, which was tough but awesome. Seeing it grow and add 16% to annual revenue was a big win. Plus, I loved making sure it was secure with OWASP standards as a cybersec champion - big enterprises demanded it and we delivered.
 
 - **Product Ops Analyst @ DiDi Global (2020-2022):** I worked on user research for taxi driver apps and fleet stuff. Improved NPS by 13%, which felt great—small tweaks, big impact!  
 - **Senior Business Analyst @ Paragon Consulting (2019-2020):** Led managerial consulting projects for banks and startups in Russia and worldwide. Helped one startup move to Estonia and grew project budgets by 2.5x. Good times!
@@ -29,7 +29,7 @@ Oh, and AI? I’m *really* good with it. I built this thing called [AI Meta Feed
 
 ## What I’m Good At ✨
 
-I’m a product manager, so I’m big on planning, researching markets, and figuring out what’s next. But AI is my jam—I’m ace at prompt engineering with tools like Gemini and Claude (my prompt repo proves it!). I can crunch data with Amplitude or Excel, code in Python and C#, and I’m super into cybersecurity—think VirusTotal and Phishing.Database. I speak English and Russian like a pro, and I’ve got some French and Georgian up my sleeve too.
+I’m a product manager, so I’m big on planning, researching markets, and figuring out what’s next. But AI is my jam—I’m ace at prompt engineering with tools like Gemini and Claude (my prompt repo proves it!). I can crunch data with Amplitude or Excel, code in Python, building my website with Astro and Tailwind CSS, and I’m super into cybersecurity—think VirusTotal and Phishing.Database. I speak English and Russian like a native, and I’ve got some French and Georgian up my sleeve too.
 
 - **Product Stuff:** Strategy, roadmaps, market digging  
 - **AI Skills:** Prompt engineering (Gemini, Claude, Deepseek, Grok, you name it)  
