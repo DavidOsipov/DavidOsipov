@@ -44,7 +44,9 @@ Got my Master’s in Management from [GSOM SPbU](https://gsom.spbu.ru/en/)—hon
 
 ## Helping Out 🌟
 
-I love giving back. I’ve made over 43,000 edits on OpenStreetMap (maps are my thing!), plus 2,000+ on MusicBrainz. I mentor students at GSOM SPbU for free, chatting about IT and product management. I'm a Wikidata and Wikipedia contributor also :) 
+I love giving back—it’s my thing! I’m part of OpenStreetMap Georgia—such an awesome crew! I’ve made over 43,000 edits on OpenStreetMap, mapping tons of streets and spots, mostly in Georgia, fixing local roads and adding places like parks and shops. It’s so cool seeing the map get better for everyone. I’ve also dropped 2,000+ edits on MusicBrainz, tweaking music data, and I’ve got over 2,000 edits on Yandex Maps (rank 4179), helping map out more local goodies. Oh, and Mapillary? I’m all in there too—uploaded over 103,500 images and mapped 471 km of streets with my photos. It’s all about street-level views to boost mapping and navigation—pretty handy stuff!  
+
+I also chip in on Wikidata and Wikipedia—adding bits and pieces to make info more open and useful. Plus, I mentor students at GSOM SPbU for free, chatting about IT and product management, which is always fun. My work with [Phishing.Database](https://github.com/Phishing-Database/Phishing.Database) is close to my heart too—it’s all about making the web safer, and I’m super passionate about that. Outside tech, I’ve donated blood a bunch of times and organized some events—love helping out however I can!
 
 ## Say Hi! 📬
 
