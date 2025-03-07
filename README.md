@@ -2,7 +2,7 @@
 
 I’m a B2B Product Manager who’s super into cybersecurity and AI. I’m chilling in Dubai, UAE right now, working on my project [Keywords4CV](https://github.com/DavidOsipov/Keywords4CV)—a cool AI tool to help people make their resumes and LinkedIn profiles stand out. I’m also part of [Phishing.Database](https://github.com/Phishing-Database/Phishing.Database), where we’re tackling phishing threats together. I’m all about keeping the internet safe and making sure threat info stays free for everyone. 🌍
 
-I’ve got a Master’s in Management from GSOM SPbU (yeah, I graduated with honors, but no need to make a fuss 😄), and I’ve grabbed some certifications in product management and design thinking too. Oh, and I’m a bit of a geek when it comes to phishing stuff—I love messing around with tools like PyFunceble to dig into domains.
+I’ve got a Master’s in Management from GSOM SPbU (yeah, I graduated with honors, but no need to make a fuss 😄), and I’ve grabbed some certifications in product management and design thinking too. Oh, and I’m a bit of a geek when it comes to phishing and other cybersec stuff, Windows and Linux administration, GIS and more.
 
 Here’s what someone said about me:  
 > "David’s a product manager I loved working with—thoughtful, responsive, and all about real results."  
@@ -13,16 +13,18 @@ Check out my GitHub stats and some fun trophies:
 
 ## What I’ve Been Doing 💼
 
-Right now, I’m freelancing since 2024—helping out with market research and product management for companies like GrowFood and World Arabia. It’s been fun digging into their data and boosting their upselling. Before that, I was Lead Product Manager at DeskAlerts (2022-2024). I got to build a new SaaS suite from scratch, which was tough but awesome. Seeing it grow and add 16% to monthly revenue was a big win. Plus, I loved making sure it was secure with OWASP standards.
+Right now, I’m freelancing since 2024—helping out with market research and product management for companies like GrowFood and World Arabia. It’s been fun digging into their data and boosting their upselling. Before that, I was Lead Product Manager at DeskAlerts (2022-2024). I got to build a new SaaS suite from scratch, which was tough but awesome. Seeing it grow and add 16% to annual revenue was a big win. Plus, I loved making sure it was secure with OWASP standards.
 
 - **Product Ops Analyst @ DiDi Global (2020-2022):** I worked on user research for taxi driver apps and fleet stuff. Improved NPS by 13%, which felt great—small tweaks, big impact!  
-- **Senior Business Analyst @ Paragon Consulting (2019-2020):** Led projects for banks and startups in Russia. Helped one startup move to Estonia and grew project budgets by 2.5x. Good times!
+- **Senior Business Analyst @ Paragon Consulting (2019-2020):** Led managerial consulting projects for banks and startups in Russia and worldwide. Helped one startup move to Estonia and grew project budgets by 2.5x. Good times!
 
 ## Stuff I’m Working On 🛠️
 
-- **[Keywords4CV](https://github.com/DavidOsipov/Keywords4CV):** My pride and joy! It’s an AI tool using Python and NLP to help job seekers shine. It’s still in Alpha (v0.26.0), but I’m tweaking it all the time.  
-- **[K4CV-Caching-Engine](https://github.com/DavidOsipov/K4CV-Caching-Engine):** A little helper for Keywords4CV to keep it speedy.  
-- **[Phishing.Database](https://github.com/Phishing-Database/Phishing.Database):** I’m in on this one—it’s about spotting phishing threats and keeping the data open for all. It’s close to my heart because it makes the web safer.  
+- **[Keywords4CV](https://github.com/DavidOsipov/Keywords4CV):** My pride and joy! It’s an AI-powered tool to help job seekers stand out with killer resumes and LinkedIn profiles. I’m teaming up with a bunch of AIs to build it, using some neat tricks to keep bugs and errors low. Still in Alpha, but I’m tweaking it every day!
+- **[K4CV-Caching-Engine](https://github.com/DavidOsipov/K4CV-Caching-Engine):** A little helper for Keywords4CV to keep it speedy.
+
+- **[Phishing.Database](https://github.com/Phishing-Database/Phishing.Database):** I’m in on this one—it’s about spotting phishing threats and keeping the data open for all. It’s close to my heart because it makes the web safer.
+- **[]**
 
 Oh, and AI? I’m *really* good with it. I built this thing called [AI Meta Feedback Analyzer](https://github.com/DavidOsipov/AI-Meta-Feedback-Analyzer)—a framework that helps AI chew through feedback and spit out smart code improvement ideas. It’s got cool features like prioritizing stuff and scoring feedback quality. People can use it with tools like Claude or GPT-4 to make coding easier. Check it out if you’re into that!
 
