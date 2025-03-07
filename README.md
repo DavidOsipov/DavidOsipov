@@ -34,7 +34,7 @@ I’m a product manager, so I’m big on planning, researching markets, and figu
 - **Product Stuff:** Strategy, roadmaps, market digging  
 - **AI Skills:** Prompt engineering (Gemini, Claude, Deepseek, Grok, you name it)  
 - **Data:** Amplitude, Excel, Google Analytics  
-- **Coding:** Python (newbie, but learning), HTML, CSS (but I'm really good with performance optimization strategies, SEO and schema markup)
+- **Coding:** Python (*newbie, but learning*), HTML, CSS (*but I'm really good with performance optimization strategies, SEO and schema markup*), system architecture
 - **Cybersecurity:** Phishing geek, VirusTotal contributor  
 - **Languages:** English (C2), Russian (C2+), French (A2), Georgian (A2)  
 
