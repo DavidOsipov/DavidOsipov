@@ -20,7 +20,7 @@ Right now, I’m freelancing since 2024—helping out with market research and p
 - **Product Ops Analyst @ DiDi Global (2020-2022):** I worked on user research for taxi driver apps and fleet stuff. Improved NPS by 13%, which felt great—small tweaks, big impact!  
 - **Senior Business Analyst @ Paragon Consulting (2019-2020):** Led managerial consulting projects for banks and startups in Russia and worldwide. Helped one startup move to Estonia and grew project budgets by 2.5x. Good times!
 
-## Stuff I’m Working On 🛠️
+## Projects I’m Working On 🛠️
 
 - **[Keywords4CV](https://github.com/DavidOsipov/Keywords4CV):** My pride and joy! It’s an AI-powered tool to help job seekers stand out with killer resumes and LinkedIn profiles. I’m teaming up with a bunch of AIs to build it, using some neat tricks to keep bugs and errors low. Still in Alpha, but I’m tweaking it every day!
 - **[K4CV-Caching-Engine](https://github.com/DavidOsipov/K4CV-Caching-Engine):** A little helper for Keywords4CV to keep it speedy.
