@@ -15,7 +15,7 @@ Check out my GitHub stats and some fun trophies:
 
 ## What I’ve Been Doing 💼
 
-Right now, I’m freelancing since 2024—helping out with market research and product management for companies like GrowFood and World Arabia. It’s been fun digging into their data and boosting their upselling. Before that, I was Lead Product Manager at [DeskAlerts](https://alert-software.com) (2022-2024). I got to build a new SaaS suite from scratch, which was tough but awesome. Seeing it grow and add 16% to annual revenue was a big win. Plus, I loved making sure it was secure with OWASP standards as a cybersec champion - big enterprises demanded it and we delivered.
+Right now, I’m freelancing since 2024—helping out with market research and product management for companies like GrowFood and World Arabia. Before that, I was Lead Product Manager at [DeskAlerts](https://alert-software.com) (2022-2024). I got to build a new SaaS suite from scratch - tough but awesome. Seeing it grow and add $300k in 1 year, and 16% to annual revenue was a big win. Plus, I loved making sure it was secure with OWASP standards as a cybersec champion - big enterprises demanded it and we delivered.
 
 - **Product Ops Analyst @ DiDi Global (2020-2022):** I worked on user research for taxi driver apps and fleet stuff. Improved NPS by 13%, which felt great—small tweaks, big impact!  
 - **Senior Business Analyst @ Paragon Consulting (2019-2020):** Led managerial consulting projects for banks and startups in Russia and worldwide. Helped one startup move to Estonia and grew project budgets by 2.5x. Good times!
