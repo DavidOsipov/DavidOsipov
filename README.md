@@ -1,63 +1,115 @@
-# Hey there, I’m David! 👋
+# Hey, I’m David Osipov 👋
 
-I’m a B2B Product Manager who’s super into cybersecurity and AI. I’m chilling in Dubai, UAE right now, working on my project [Keywords4CV](https://github.com/DavidOsipov/Keywords4CV)—a cool AI tool to help people make their resumes and LinkedIn profiles stand out. I’m also part of [Phishing.Database](https://github.com/Phishing-Database/Phishing.Database), where we’re tackling phishing threats together. I’m all about keeping the internet safe and making sure threat info stays free for everyone. 🌍
+I’m a B2B Product Leader and independent security researcher working at the intersection of cybersecurity, AI, open Internet infrastructure, and machine-readable trust.
 
-I’ve got a Master’s in Management from [GSOM SPbU](https://gsom.spbu.ru/en/) (yeah, I graduated with honors, but no need to make a fuss 😄), and I’ve grabbed some certifications in product management and design thinking too. Oh, and I’m a bit of a geek when it comes to phishing and other cybersec stuff, Windows and Linux administration, GIS and more.
+I’m currently focused on two tracks:
 
-Here’s what someone said about me:  
-> "David’s a product manager I loved working with—thoughtful, responsive, and all about real results."  
-> — Natasha Chudnova, CCO at DeskAlerts  
+- building and maintaining censorship-resilient Telegram infrastructure with the [Telemt](https://github.com/telemt) community;
+- researching security, trust, and metadata failures in large Internet platforms.
 
-Check out my GitHub stats and some fun trophies:  
-[![trophy](https://github-profile-trophy.vercel.app/?username=DavidOsipov&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-[![David Osipov's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidOsipov)](https://github.com/anuraghazra/github-readme-stats)
+I’m credited as the independent researcher behind **CVE-2026-14440**, a Cloudflare Universal SSL / CAA / RFC 8657 vulnerability involving automatic CAA management and end-to-end enforcement of `accounturi` / `validationmethods`.
+
+- CVE: https://www.cve.org/CVERecord?id=CVE-2026-14440
+- NVD: https://nvd.nist.gov/vuln/detail/CVE-2026-14440
+- GitHub Advisory: https://github.com/advisories/GHSA-vrv9-rjp4-w93c
+- Research write-up: https://david-osipov.vision/en/blog/cybersecurity/cloudflare-ssl-mitm-flaw-2026/
+
+I’m also CPO at [The Flip](https://theflip.io), where we work on generative engine optimization, entity-level trust, machine-readable facts, and evidence-backed knowledge infrastructure.
+
+---
+
+## Current focus
+
+### [`telemt/tdlib-obf`](https://github.com/telemt/tdlib-obf)
+
+I created and maintain `tdlib-obf`, a security-hardened fork of TDLib for high-threat network environments.
+
+The project focuses on MTProto traffic masking, anti-DPI transport behavior, and client-side support for censorship-resilient Telegram access. It is designed to work together with the Telemt Rust MTProxy server.
+
+Status: alpha / pre-first official release.
+
+### [`telemt/telemt`](https://github.com/telemt/telemt)
+
+I contribute to `telemt`, a Rust + Tokio MTProxy server for Telegram.
+
+Telemt is a fast, secure, production-oriented MTProxy implementation with a large user and operator community. I help with product direction, community operations, threat modeling, documentation, testing, and ecosystem development.
+
+I’m one of the admins in the Telemt community, which has grown to 21k+ people on Telegram. The main `telemt/telemt` repository has around 5k GitHub stars.
+
+---
+
+## Security research
+
+### CVE-2026-14440 — Cloudflare Universal SSL / CAA / RFC 8657
+
+I discovered and coordinated the disclosure of a Cloudflare Universal SSL issue where automatic CAA management can supersede customer-configured CAA records at query time.
+
+In affected Universal SSL configurations, RFC 8657 `accounturi` and `validationmethods` protections may not be enforced end-to-end. Successful exploitation is non-trivial and requires a strong network position, but the impact can include issuance of a browser-trusted TLS certificate and a man-in-the-middle window against the affected domain.
+
+Official records:
+
+- CVE Program: https://www.cve.org/CVERecord?id=CVE-2026-14440
+- NVD: https://nvd.nist.gov/vuln/detail/CVE-2026-14440
+- GitHub Advisory: https://github.com/advisories/GHSA-vrv9-rjp4-w93c
+- NotCVE historical tracking: https://notcve.org/notcve/NotCVE-2026-0001
+
+---
+
+## Product background
+
+I’ve worked across B2B SaaS, cybersecurity, enterprise software, mobility, and consulting.
+
+Previously, I was Lead Product Manager at [DeskAlerts](https://alert-software.com), where I led the development of a new SaaS suite from scratch, worked with enterprise security requirements, and contributed to product growth.
+
+Earlier roles included:
+
+- Product Ops Analyst at DiDi Global
+- Senior Business Analyst at Paragon Consulting
+- freelance product and market research work for international companies
+
+My product work usually combines market research, customer discovery, roadmap ownership, technical writing, data analysis, and systems thinking.
+
+---
+
+## Open knowledge and mapping
+
+I care about public knowledge infrastructure.
+
+I contribute to:
+
+- OpenStreetMap and Mapillary
+- Wikidata and Wikipedia
+- MusicBrainz
+- open cybersecurity datasets and anti-phishing communities
+
+Selected public identifiers:
+
+- ORCID: https://orcid.org/0009-0005-2713-9242
+- ISNI: https://isni.org/isni/000000051802960X
+- VIAF: https://viaf.org/viaf/139173726847611590332
+- Website: https://david-osipov.vision
+
+---
+
+## Skills
+
+**Product leadership:** B2B SaaS, roadmap strategy, discovery, market research, enterprise requirements, stakeholder management  
+**Cybersecurity:** vulnerability research, TLS/PKI, CAA, CVE coordination, phishing intelligence, threat modeling, OSINT  
+**Internet infrastructure:** MTProxy, Telegram transport, DPI resistance, DNS, certificate issuance, routing-risk analysis  
+**AI and data:** AI-assisted research, prompt engineering, information extraction, structured metadata, knowledge graphs  
+**Web and tooling:** Python, Astro, Tailwind CSS, schema markup, performance optimization, GitHub workflows  
+**Languages:** Russian, English, Georgian, French, German
 
 
-## What I’ve Been Doing 💼
+---
 
-Right now, I’m freelancing since 2024—helping out with market research and product management for companies like GrowFood and World Arabia. Before that, I was Lead Product Manager at [DeskAlerts](https://alert-software.com) (2022-2024). I got to build a new SaaS suite from scratch - tough but awesome. Seeing it grow and add $300k in 1 year, and 16% to annual revenue was a big win. Plus, I loved making sure it was secure with OWASP standards as a cybersec champion - big enterprises demanded it and we delivered.
+## Contact
 
-- **Product Ops Analyst @ DiDi Global (2020-2022):** I worked on user research for taxi driver apps and fleet stuff. Improved NPS by 13%, which felt great—small tweaks, big impact!  
-- **Senior Business Analyst @ Paragon Consulting (2019-2020):** Led managerial consulting projects for banks and startups in Russia and worldwide. Helped one startup move to Estonia and grew project budgets by 2.5x. Good times!
+- Website: https://david-osipov.vision
+- LinkedIn: https://linkedin.com/in/david-osipov
+- GitHub: https://github.com/DavidOsipov
 
-## Projects I’m Working On 🛠️
+Verify identity:
 
-- **[Keywords4CV](https://github.com/DavidOsipov/Keywords4CV):** My pride and joy! It’s an AI-powered tool to help job seekers stand out with killer resumes and LinkedIn profiles. I’m teaming up with a bunch of AIs to build it, using some neat tricks to keep bugs and errors low. Still in Alpha, but I’m tweaking it every day!
-- **[K4CV-Caching-Engine](https://github.com/DavidOsipov/K4CV-Caching-Engine):** A little helper for Keywords4CV to keep it speedy.
-
-- **[Phishing.Database](https://github.com/Phishing-Database/Phishing.Database):** I’m in on this one—it’s about spotting phishing threats and keeping the data open for all. It’s close to my heart because it makes the web safer.
-
-Oh, and AI? I’m *really* good with it. I built this thing called [AI Meta Feedback Analyzer](https://github.com/DavidOsipov/AI-Meta-Feedback-Analyzer-for-Code-Improvements)—a framework that helps AI chew through feedback and spit out smart code improvement ideas. It’s got cool features like prioritizing stuff and scoring feedback quality. People can use it with tools like Claude or GPT-4 to make coding easier. Check it out if you’re into that!
-
-## What I’m Good At ✨
-
-I’m a product manager, so I’m big on planning, researching markets, and figuring out what’s next. But AI is my jam—I’m ace at prompt engineering with tools like Gemini and Claude (my prompt repo proves it!). I can crunch data with Amplitude or Excel, code in Python, building my website with Astro and Tailwind CSS, and I’m super into cybersecurity—think VirusTotal and Phishing.Database. I speak English and Russian like a native, and I’ve got some French and Georgian up my sleeve too.
-
-- **Product Stuff:** Strategy, roadmaps, market digging  
-- **AI Skills:** Prompt engineering (Gemini, Claude, Deepseek, Grok, you name it)  
-- **Data:** Amplitude, Excel, Google Analytics  
-- **Coding:** Python (*newbie, but learning*), HTML, CSS (*but I'm really good with performance optimization strategies, SEO and schema markup*), system architecture
-- **Cybersecurity:** Phishing geek, VirusTotal contributor  
-- **Languages:** English (C2), Russian (C2+), French (A2), Georgian (A2)  
-
-## School & Certs 🎓
-
-Got my Master’s in Management from [GSOM SPbU](https://gsom.spbu.ru/en/)—honors and all (GPA 4.5/5.0). Before that, I did International Relations there too. I’ve also got certs like AI Prompt Engineering (Dubai Future Foundation, Jan 2025), Continuous Product Discovery, and Enterprise Design Thinking from IBM. They’ve been super handy for keeping my skills sharp.
-
-## Helping Out 🌟
-
-I love giving back—it’s my thing! I’m part of OpenStreetMap Georgia—such an awesome crew! I’ve made over 43,000 edits on OpenStreetMap, mapping tons of streets and spots, mostly in Georgia, fixing local roads and adding places like parks and shops. It’s so cool seeing the map get better for everyone. I’ve also dropped 2,000+ edits on MusicBrainz, tweaking music data, and I’ve got over 2,000 edits on Yandex Maps (rank 4179), helping map out more local goodies. Oh, and Mapillary? I’m all in there too—uploaded over 103,500 images and mapped 471 km of streets with my photos. It’s all about street-level views to boost mapping and navigation—pretty handy stuff!  
-
-I also chip in on Wikidata and Wikipedia—adding bits and pieces to make info more open and useful. Plus, I mentor students at GSOM SPbU for free, chatting about IT and product management, which is always fun. My work with [Phishing.Database](https://github.com/Phishing-Database/Phishing.Database) is close to my heart too—it’s all about making the web safer, and I’m super passionate about that. Outside tech, I’ve donated blood a bunch of times and organized some events—love helping out however I can!
-
-## Say Hi! 📬
-
-I’m a chill guy who loves connecting. Want to team up on a project, talk AI, or geek out about cybersecurity? Hit me up!  
-- LinkedIn: [linkedin.com/in/david-osipov](https://linkedin.com/in/david-osipov)  
-- GitHub: [github.com/DavidOsipov](https://github.com/DavidOsipov)  
-- Website: [david-osipov.vision](https://david-osipov.vision) (still building it)
-- Verify it’s me at [keyoxide.org/wkd/business@david-osipov.vision](https://keyoxide.org/wkd/business@david-osipov.vision)—it links my profiles to my PGP key. Grab it via WKD (Thunderbird/ProtonMail-friendly), or here:  
-  - Binary: [openpgpkey.david-osipov.vision/.../hu/pjmzw74d6on6w4o8hhtn9z5agk1cta8n](https://openpgpkey.david-osipov.vision/.well-known/openpgpkey/david-osipov.vision/hu/pjmzw74d6on6w4o8hhtn9z5agk1cta8n)  
-  - Armored: [openpgpkey.david-osipov.vision/.../D3FC4983E500AC3F7F136EB80E55C4A47454E82E.asc](https://openpgpkey.david-osipov.vision/.well-known/openpgpkey/david-osipov.vision/D3FC4983E500AC3F7F136EB80E55C4A47454E82E.asc)
-
-Looking forward to hearing from you!
+- Keyoxide: https://keyoxide.org/wkd/business@david-osipov.vision
+- WKD / OpenPGP: https://openpgpkey.david-osipov.vision/.well-known/openpgpkey/david-osipov.vision/hu/pjmzw74d6on6w4o8hhtn9z5agk1cta8n
